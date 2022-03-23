@@ -1,0 +1,18 @@
+body {
+  background-color: LightSalmon;
+  font-family: Verdana, Helvetica, Bookman;
+  color: Black;
+}
+
+hr {
+  background-color: black;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: skyblue;
+}
+a:hover {
+  color: black;
+}
